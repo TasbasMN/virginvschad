@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs
+logs/
+
+# Cache
+data/chad_cache.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
